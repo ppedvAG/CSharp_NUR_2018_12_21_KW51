@@ -1,0 +1,3 @@
+{"$type":"Fahrzeugpark.PKW, Fahrzeugpark","AnzahlTüren":5,"Räderanzahl":4,"MaxGeschwindigkeit":190,"Name":"Audi","Preis":25000.0,"AktGeschwindigkeit":0,"Zustand":false}
+{"$type":"Fahrzeugpark.Flugzeug, Fahrzeugpark","MaxFlughöhe":9999,"MaxGeschwindigkeit":980,"Name":"Boing","Preis":3500000.0,"AktGeschwindigkeit":0,"Zustand":false}
+{"$type":"Fahrzeugpark.Schiff, Fahrzeugpark","Treibstoff":1,"Ladung":null,"MaxGeschwindigkeit":40,"Name":"Titanic","Preis":3000000.0,"AktGeschwindigkeit":0,"Zustand":false}

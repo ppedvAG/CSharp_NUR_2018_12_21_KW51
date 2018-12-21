@@ -1,0 +1,10 @@
+C:\Users\kh2\source\repos\C_Sharp_Basic_Nürnberg\WindowsFormsEvents\bin\Debug\WindowsFormsEvents.exe.config
+C:\Users\kh2\source\repos\C_Sharp_Basic_Nürnberg\WindowsFormsEvents\bin\Debug\WindowsFormsEvents.exe
+C:\Users\kh2\source\repos\C_Sharp_Basic_Nürnberg\WindowsFormsEvents\bin\Debug\WindowsFormsEvents.pdb
+C:\Users\kh2\source\repos\C_Sharp_Basic_Nürnberg\WindowsFormsEvents\obj\Debug\WindowsFormsEvents.csprojAssemblyReference.cache
+C:\Users\kh2\source\repos\C_Sharp_Basic_Nürnberg\WindowsFormsEvents\obj\Debug\WindowsFormsEvents.Form1.resources
+C:\Users\kh2\source\repos\C_Sharp_Basic_Nürnberg\WindowsFormsEvents\obj\Debug\WindowsFormsEvents.Properties.Resources.resources
+C:\Users\kh2\source\repos\C_Sharp_Basic_Nürnberg\WindowsFormsEvents\obj\Debug\WindowsFormsEvents.csproj.GenerateResource.cache
+C:\Users\kh2\source\repos\C_Sharp_Basic_Nürnberg\WindowsFormsEvents\obj\Debug\WindowsFormsEvents.csproj.CoreCompileInputs.cache
+C:\Users\kh2\source\repos\C_Sharp_Basic_Nürnberg\WindowsFormsEvents\obj\Debug\WindowsFormsEvents.exe
+C:\Users\kh2\source\repos\C_Sharp_Basic_Nürnberg\WindowsFormsEvents\obj\Debug\WindowsFormsEvents.pdb

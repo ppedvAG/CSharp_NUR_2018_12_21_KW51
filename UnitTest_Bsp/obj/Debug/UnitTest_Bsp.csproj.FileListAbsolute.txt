@@ -1,0 +1,16 @@
+C:\Users\kh2\source\repos\C_Sharp_Basic_Nürnberg\UnitTest_Bsp\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\kh2\source\repos\C_Sharp_Basic_Nürnberg\UnitTest_Bsp\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\kh2\source\repos\C_Sharp_Basic_Nürnberg\UnitTest_Bsp\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\kh2\source\repos\C_Sharp_Basic_Nürnberg\UnitTest_Bsp\bin\Debug\UnitTest_Bsp.dll
+C:\Users\kh2\source\repos\C_Sharp_Basic_Nürnberg\UnitTest_Bsp\bin\Debug\UnitTest_Bsp.pdb
+C:\Users\kh2\source\repos\C_Sharp_Basic_Nürnberg\UnitTest_Bsp\bin\Debug\Fahrzeugpark.dll
+C:\Users\kh2\source\repos\C_Sharp_Basic_Nürnberg\UnitTest_Bsp\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\kh2\source\repos\C_Sharp_Basic_Nürnberg\UnitTest_Bsp\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\kh2\source\repos\C_Sharp_Basic_Nürnberg\UnitTest_Bsp\bin\Debug\Fahrzeugpark.pdb
+C:\Users\kh2\source\repos\C_Sharp_Basic_Nürnberg\UnitTest_Bsp\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\kh2\source\repos\C_Sharp_Basic_Nürnberg\UnitTest_Bsp\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\kh2\source\repos\C_Sharp_Basic_Nürnberg\UnitTest_Bsp\obj\Debug\UnitTest_Bsp.csprojAssemblyReference.cache
+C:\Users\kh2\source\repos\C_Sharp_Basic_Nürnberg\UnitTest_Bsp\obj\Debug\UnitTest_Bsp.csproj.CoreCompileInputs.cache
+C:\Users\kh2\source\repos\C_Sharp_Basic_Nürnberg\UnitTest_Bsp\obj\Debug\UnitTest_Bsp.csproj.CopyComplete
+C:\Users\kh2\source\repos\C_Sharp_Basic_Nürnberg\UnitTest_Bsp\obj\Debug\UnitTest_Bsp.dll
+C:\Users\kh2\source\repos\C_Sharp_Basic_Nürnberg\UnitTest_Bsp\obj\Debug\UnitTest_Bsp.pdb

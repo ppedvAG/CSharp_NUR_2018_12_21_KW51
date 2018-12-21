@@ -1,0 +1,7 @@
+C:\Users\kh2\source\repos\C_Sharp_Basic_Nürnberg\MiniRechner\bin\Debug\MiniRechner.exe.config
+C:\Users\kh2\source\repos\C_Sharp_Basic_Nürnberg\MiniRechner\bin\Debug\MiniRechner.exe
+C:\Users\kh2\source\repos\C_Sharp_Basic_Nürnberg\MiniRechner\bin\Debug\MiniRechner.pdb
+C:\Users\kh2\source\repos\C_Sharp_Basic_Nürnberg\MiniRechner\obj\Debug\MiniRechner.csprojAssemblyReference.cache
+C:\Users\kh2\source\repos\C_Sharp_Basic_Nürnberg\MiniRechner\obj\Debug\MiniRechner.csproj.CoreCompileInputs.cache
+C:\Users\kh2\source\repos\C_Sharp_Basic_Nürnberg\MiniRechner\obj\Debug\MiniRechner.exe
+C:\Users\kh2\source\repos\C_Sharp_Basic_Nürnberg\MiniRechner\obj\Debug\MiniRechner.pdb

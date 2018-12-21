@@ -1,0 +1,7 @@
+C:\Users\kh2\source\repos\C_Sharp_Basic_Nürnberg\Wdh_OOP\bin\Debug\Wdh_OOP.exe.config
+C:\Users\kh2\source\repos\C_Sharp_Basic_Nürnberg\Wdh_OOP\bin\Debug\Wdh_OOP.exe
+C:\Users\kh2\source\repos\C_Sharp_Basic_Nürnberg\Wdh_OOP\bin\Debug\Wdh_OOP.pdb
+C:\Users\kh2\source\repos\C_Sharp_Basic_Nürnberg\Wdh_OOP\obj\Debug\Wdh_OOP.csprojAssemblyReference.cache
+C:\Users\kh2\source\repos\C_Sharp_Basic_Nürnberg\Wdh_OOP\obj\Debug\Wdh_OOP.csproj.CoreCompileInputs.cache
+C:\Users\kh2\source\repos\C_Sharp_Basic_Nürnberg\Wdh_OOP\obj\Debug\Wdh_OOP.exe
+C:\Users\kh2\source\repos\C_Sharp_Basic_Nürnberg\Wdh_OOP\obj\Debug\Wdh_OOP.pdb

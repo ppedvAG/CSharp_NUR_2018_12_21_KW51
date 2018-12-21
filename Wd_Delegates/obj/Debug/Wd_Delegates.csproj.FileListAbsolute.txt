@@ -1,0 +1,10 @@
+C:\Users\kh2\source\repos\C_Sharp_Basic_Nürnberg\Wd_Delegates\bin\Debug\Wd_Delegates.exe.config
+C:\Users\kh2\source\repos\C_Sharp_Basic_Nürnberg\Wd_Delegates\bin\Debug\Wd_Delegates.exe
+C:\Users\kh2\source\repos\C_Sharp_Basic_Nürnberg\Wd_Delegates\bin\Debug\Wd_Delegates.pdb
+C:\Users\kh2\source\repos\C_Sharp_Basic_Nürnberg\Wd_Delegates\obj\Debug\Wd_Delegates.csprojAssemblyReference.cache
+C:\Users\kh2\source\repos\C_Sharp_Basic_Nürnberg\Wd_Delegates\obj\Debug\Wd_Delegates.csproj.CoreCompileInputs.cache
+C:\Users\kh2\source\repos\C_Sharp_Basic_Nürnberg\Wd_Delegates\obj\Debug\Wd_Delegates.exe
+C:\Users\kh2\source\repos\C_Sharp_Basic_Nürnberg\Wd_Delegates\obj\Debug\Wd_Delegates.pdb
+C:\Users\kh2\source\repos\C_Sharp_Basic_Nürnberg\Wd_Delegates\bin\Debug\Fahrzeugpark.dll
+C:\Users\kh2\source\repos\C_Sharp_Basic_Nürnberg\Wd_Delegates\bin\Debug\Fahrzeugpark.pdb
+C:\Users\kh2\source\repos\C_Sharp_Basic_Nürnberg\Wd_Delegates\obj\Debug\Wd_Delegates.csproj.CopyComplete

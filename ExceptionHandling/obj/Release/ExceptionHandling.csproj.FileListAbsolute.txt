@@ -1,0 +1,6 @@
+C:\Users\kh2\source\repos\C_Sharp_Basic_Nürnberg\ExceptionHandling\bin\Release\ExceptionHandling.exe.config
+C:\Users\kh2\source\repos\C_Sharp_Basic_Nürnberg\ExceptionHandling\bin\Release\ExceptionHandling.exe
+C:\Users\kh2\source\repos\C_Sharp_Basic_Nürnberg\ExceptionHandling\bin\Release\ExceptionHandling.pdb
+C:\Users\kh2\source\repos\C_Sharp_Basic_Nürnberg\ExceptionHandling\obj\Release\ExceptionHandling.csproj.CoreCompileInputs.cache
+C:\Users\kh2\source\repos\C_Sharp_Basic_Nürnberg\ExceptionHandling\obj\Release\ExceptionHandling.exe
+C:\Users\kh2\source\repos\C_Sharp_Basic_Nürnberg\ExceptionHandling\obj\Release\ExceptionHandling.pdb

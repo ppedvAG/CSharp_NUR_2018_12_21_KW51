@@ -1,0 +1,7 @@
+C:\Users\kh2\source\repos\C_Sharp_Basic_Nürnberg\Zufallszahlengenerator\bin\Debug\Zufallszahlengenerator.exe.config
+C:\Users\kh2\source\repos\C_Sharp_Basic_Nürnberg\Zufallszahlengenerator\bin\Debug\Zufallszahlengenerator.exe
+C:\Users\kh2\source\repos\C_Sharp_Basic_Nürnberg\Zufallszahlengenerator\bin\Debug\Zufallszahlengenerator.pdb
+C:\Users\kh2\source\repos\C_Sharp_Basic_Nürnberg\Zufallszahlengenerator\obj\Debug\Modul02Demo_Zufallszahlengenerator.csprojAssemblyReference.cache
+C:\Users\kh2\source\repos\C_Sharp_Basic_Nürnberg\Zufallszahlengenerator\obj\Debug\Modul02Demo_Zufallszahlengenerator.csproj.CoreCompileInputs.cache
+C:\Users\kh2\source\repos\C_Sharp_Basic_Nürnberg\Zufallszahlengenerator\obj\Debug\Zufallszahlengenerator.exe
+C:\Users\kh2\source\repos\C_Sharp_Basic_Nürnberg\Zufallszahlengenerator\obj\Debug\Zufallszahlengenerator.pdb
